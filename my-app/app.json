@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "mytinerary-mobile",
-    "slug": "mytinerary-mobile",
+    "name": "my-app",
+    "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/travelIcon.png",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/travelIcon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/travelIcon.png",
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
